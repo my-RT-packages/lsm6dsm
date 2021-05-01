@@ -145,4 +145,4 @@ msh />
 ## 5、联系方式 & 感谢
 
 * 维护：chuckie
-* 主页：[https://gitee.com/my-rt-packages/lsm6dsm.git](https://gitee.com/my-rt-packages/lsm6dsm.git)
+* 主页：[https://github.com/my-RT-packages/lsm6dsm#readme](https://github.com/my-RT-packages/lsm6dsm#readme)
